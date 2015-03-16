@@ -31,9 +31,13 @@ p {
   }
 }
 
-@media only screen and (max-width : 600px) {
+@media screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
+  }
+
+  .font-xlg {
+    font-size: 4rem !important;
   }
 }
 
@@ -87,9 +91,20 @@ a {
 #links li{
   display: inline;
   list-style-type: none;
-  padding: 0 6%;
+  padding: 0 7%;
 }
 
 .font-xlg {
   font-size: 6rem;
+}
+
+/* to offset the anchor because of fixed navigaiton bar*/
+.anchor-offset {
+  padding-top: 64px;
+  margin-top: -64px;
+}
+
+.dim {
+  min-height: 600px;
+  padding: 8%;
 }
