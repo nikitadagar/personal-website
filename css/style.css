@@ -50,3 +50,7 @@ footer.page-footer {
 #index-banner {
   height: 620px;
 }
+
+.margin-top-sm {
+  margin-top: 13%;
+}
