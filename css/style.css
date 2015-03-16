@@ -8,7 +8,7 @@ p {
 }
 
 .button-collapse {
-  color: #F43752 !important;
+  color: #00BCD4 !important;
 }
 
 .parallax-container {
@@ -53,4 +53,43 @@ footer.page-footer {
 
 .margin-top-sm {
   margin-top: 13%;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-border {
+  border: 5px solid #00BCD4;
+}
+
+.header-border {
+  border-width: 4px;
+  border-color: white;
+  border-style: solid;
+  width: 60%;
+}
+
+.mgn-top {
+  margin-top: 15px;
+}
+
+a {
+  color: #00BCD4;
+}
+
+#links li{
+  display: inline;
+  list-style-type: none;
+  padding: 0 6%;
+}
+
+.font-xlg {
+  font-size: 6rem;
 }
