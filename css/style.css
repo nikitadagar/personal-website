@@ -41,6 +41,19 @@ p {
   }
 }
 
+/*for footer */
+@media (max-width : 535px){
+  .bgd-img-sky {
+    margin-bottom: -35px !important;
+  }
+}
+
+@media (max-width : 500px){
+  .bgd-img-sky {
+    margin-bottom: -45px !important;
+  }
+}
+
 .icon-block {
   padding: 0 15px;
 }
