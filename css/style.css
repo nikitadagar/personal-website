@@ -55,6 +55,10 @@ footer.page-footer {
   color: #00BCD4 !important;
 }
 
+.red {
+  color: #E9266A;
+}
+
 #index-banner {
   height: 620px;
 }
@@ -102,6 +106,10 @@ a {
   font-size: 6rem;
 }
 
+.font-md {
+  font-size: 18px;
+}
+
 /* to offset the anchor because of fixed navigaiton bar*/
 .anchor-offset {
   padding-top: 64px;
@@ -120,4 +128,17 @@ a {
 
 .bold {
   font-weight: bold;
+}
+
+.img-ht {
+  height: 80px;
+}
+
+.bgd-img-sky {
+  background-image: url(../img/skyline-blue.png);
+  width: 100%;
+  height: 80px;
+  background-repeat: repeat;
+  background-size:contain;
+  margin-bottom: -21px;
 }
