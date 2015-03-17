@@ -84,6 +84,10 @@ footer.page-footer {
   margin-top: 13%;
 }
 
+#nav-mobile li a {
+  padding-right: 100px;
+}
+
 .img-circle {
   border-radius: 50%;
 }
