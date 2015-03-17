@@ -29,6 +29,10 @@ p {
   #index-banner .section {
     top: 10%;
   }
+
+  #logo-container {
+    display: inline !important;
+  }
 }
 
 @media screen and (max-width : 600px) {
@@ -50,7 +54,7 @@ p {
 
 @media (max-width : 500px){
   .bgd-img-sky {
-    margin-bottom: -45px !important;
+    margin-bottom: -50px !important;
   }
 }
 
@@ -154,4 +158,8 @@ a {
   background-repeat: repeat;
   background-size:contain;
   margin-bottom: -21px;
+}
+
+#logo-container {
+  display: none;
 }
