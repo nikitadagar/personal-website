@@ -155,6 +155,16 @@ a {
   height: 80px;
 }
 
+.center-align-horz {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-kinect {
+    max-height: 250px;
+    margin-bottom: 7%;
+}
+
 .bgd-img-sky {
   background-image: url(../img/skyline-blue.png);
   width: 100%;
