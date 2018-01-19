@@ -186,6 +186,10 @@ h1 {
   font-weight: 600;
 }
 
+h4 {
+  margin-bottom: 10%;
+}
+
 .bold {
   font-weight: bold;
 }
