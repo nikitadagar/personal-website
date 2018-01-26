@@ -88,6 +88,10 @@ footer.page-footer {
   margin-top: 13%;
 }
 
+.margin-top-40 {
+  margin-top: 40px;
+}
+
 #nav-mobile li a {
   padding-right: 100px;
 }
