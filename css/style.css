@@ -33,6 +33,10 @@ p {
   .font-xlg {
     font-size: 4rem !important;
   }
+
+  .container {
+    padding: 0;
+  }
 }
 
 /*for footer */
